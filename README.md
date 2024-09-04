@@ -1,5 +1,7 @@
 # RP4B_Battery_PCB
-PCB design in easyeda for a super simple pcb to host any 5V li-ion battery
+PCB design in easyeda for a super simple pcb to host any 5V li-ion battery 
+
+-- SUPER OLD, OUTDATED, DOES NOT WORK --
 
 # Usage
 The ready parts are in the PARTS dir (Used to export the actual files, etc)
